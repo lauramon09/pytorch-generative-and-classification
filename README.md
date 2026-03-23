@@ -1,4 +1,4 @@
-# pytorch-generative-and-classification
+# Deep Learning & Generative AI Portfolio
 Este repositorio contiene una colección de proyectos prácticos enfocados en la implementación de arquitecturas de Deep Learning utilizando **PyTorch**. Los proyectos abarcan desde la clasificación de imágenes tradicionales hasta modelos generativos avanzados no supervisados.
 
 ## Proyectos Incluidos
